@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Balaji M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/60/44/92/360_F_660449277_KTdoBU1B1gWjwjKPlsCwWgnxzOoorB5b.jpg" />
+
 - 🔭 I’m currently working on [Event Scheduling Management System – A MERN stack web app with real-time updates and role-based access](https://github.com/Balaji01725/Event_Management)
 
 - 🌱 I’m currently learning **Material-UI, WebSockets, and AI-based recommendation systems. Also improving algorithm skills via LeetCode.**
