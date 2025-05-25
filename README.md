@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Balaji+M.;Fullstack+Web+Developer+from+India;Always+learning+something+new!;MERN+Stack+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/60/44/92/360_F_660449277_KTdoBU1B1gWjwjKPlsCwWgnxzOoorB5b.jpg" />
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/12/13/51/03/240_F_1213510397_oPBpEfHSPfL7YAXXcxu4dvUg8eInZqL5.jpg" />
 
 - 🔭 I’m currently working on [Event Scheduling Management System – A MERN stack web app with real-time updates and role-based access](https://github.com/Balaji01725/Event_Management)
 
