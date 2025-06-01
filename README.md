@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji M</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Balaji+M.;Fullstack+Web+Developer+from+India;Always+learning+something+new!;MERN+Stack+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
