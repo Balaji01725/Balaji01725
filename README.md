@@ -5,11 +5,11 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/12/13/51/03/240_F_1213510397_oPBpEfHSPfL7YAXXcxu4dvUg8eInZqL5.jpg" />
 
-- 🔭 I’m currently working on [Event Scheduling Management System – A MERN stack web app with real-time updates and role-based access](https://github.com/Balaji01725/Event_Management)
+🔭 I’m currently working on Attendance Management System – A Java desktop application using OOP concepts, JDBC, and MySQL for managing student attendance
 
 - 🌱 I’m currently learning **Material-UI, WebSockets, and AI-based recommendation systems. Also improving algorithm skills via LeetCode.**
 
-- 👯 I’m looking to collaborate on [Restaurant Recommendation System – A full-stack platform with AI-based restaurant suggestions](https://github.com/Balaji01725/Restautants_Recommentation)
+👯 I’m looking to collaborate on Restaurant Recommendation System – A full-stack MERN web app for restaurant listing, reviews, and recommendations
 
 - 🤝 I’m looking for help with **Expanding real-time capabilities in MERN applications**
 
