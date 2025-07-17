@@ -5,9 +5,9 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/12/13/51/03/240_F_1213510397_oPBpEfHSPfL7YAXXcxu4dvUg8eInZqL5.jpg" />
 
-🔭 I’m currently working on Attendance Management System – A Java desktop application using OOP concepts, JDBC, and MySQL for managing student attendance
+🔭 I’m currently working on [Attendance Management System – A Java desktop application using OOP concepts, JDBC, and MySQL for managing student attendance](https://github.com/Balaji01725/Attendence_Management_System)
 
-- 🌱 I’m currently learning **Material-UI, WebSockets, and AI-based recommendation systems. Also improving algorithm skills via LeetCode.**
+🌱 I’m currently learning MERN stack development, exploring Material-UI and WebSockets, and consistently improving my algorithm skills through LeetCode.
 
 👯 I’m looking to collaborate on Restaurant Recommendation System – A full-stack MERN web app for restaurant listing, reviews, and recommendations
 
